@@ -1,2 +1,0 @@
-# MathVisNetworkAttempt
-FML
